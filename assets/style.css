@@ -3,22 +3,22 @@
     margin: 0;
 }
 
-.nav {
+.navbar {
     padding: 40px;
     background-color: rgb(94, 64, 230);
 }
-.nav .links {
+.navbar .link {
     float: right;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
 }
 
-.nav .links ul li {
+.navbar .link {
     display: inline-block;
     margin-left: 22px;
 }
 
-.links a {
+.link {
     text-decoration: none;
     color: white;
 }
