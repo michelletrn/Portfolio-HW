@@ -11,7 +11,7 @@ For this assignment, I was tasked with creating a portfolio web application with
 N/A
 
 ## Usage
-Github: https://github.com/michelletrn
+Github: https://github.com/michelletrn/Portfolio-HW.git
 Deployed URL: https://michelletrn.github.io/Portfolio-HW/
 
 Here is a screenshot of my application:
